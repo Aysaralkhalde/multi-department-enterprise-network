@@ -18,7 +18,7 @@ A Cisco Packet Tracer project representing a **single organization with three de
 ## Project Files
 
 * Cisco Packet Tracer topology
-* [Topology file] (Cisco%20Packet%20Tracer%20topology/Multi-department%20enterprise%20network.pkt)
+* [Topology file](Cisco%20Packet%20Tracer%20topology/Multi-department%20enterprise%20network.pkt)
 * Device configurations
 * Network topology
 
