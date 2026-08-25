@@ -20,6 +20,7 @@ A Cisco Packet Tracer project representing a **single organization with three de
 * Device configurations
 * Network topology
 * Network topology/Screenshot 2026-08-25 160006.png
+* https://github.com/Aysaralkhalde/multi-department-enterprise-network/blob/main/Verification%20screenshots/SshTestpng.png
 * Verification screenshots
 
 **Tool:** Cisco Packet Tracer
