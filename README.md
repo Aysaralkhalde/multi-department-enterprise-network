@@ -17,7 +17,7 @@ A Cisco Packet Tracer project representing a **single organization with three de
 ## Project Files
 
 * Cisco Packet Tracer topology
-* ![Network-topology] (Network topology/Screenshot 2026-08-25 160006.png)
+* ! [Network-topology] (Network topology/Screenshot 2026-08-25 160006.png)
 * Device configurations
 * Network topology
 * Verification screenshots
