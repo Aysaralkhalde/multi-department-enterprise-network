@@ -19,6 +19,7 @@ A Cisco Packet Tracer project representing a **single organization with three de
 * Cisco Packet Tracer topology
 * Device configurations
 * Network topology
+* Network topology/Screenshot 2026-08-25 160006.png
 * Verification screenshots
 
 **Tool:** Cisco Packet Tracer
