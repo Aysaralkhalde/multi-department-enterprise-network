@@ -3,7 +3,7 @@
 
 ## Overview
 
-A Cisco Packet Tracer project representing a **single organization with three departments and interconnected networks**.
+A Cisco Packet Tracer project representing a **single organization with three physical locations and interconnected networks**.
 
 ## Technologies Used
 
