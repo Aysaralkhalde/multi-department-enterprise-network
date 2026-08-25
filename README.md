@@ -19,7 +19,9 @@ A Cisco Packet Tracer project representing a **single organization with three de
 
 * Cisco Packet Tracer topology
 * [Topology file](Cisco%20Packet%20Tracer%20topology/Multi-department%20enterprise%20network.pkt)
-* Device configurations
+*
+* [ Device configurations Sample](Device%20configurations/RunConfForRouter.txt)
+
 * Network topology
 * ![Topologyimage](Network%20topology/Screenshot%202026-08-25%20160006.png)
 
